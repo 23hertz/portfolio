@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.navbar-brand{
+    font-size:30px;
+    font-weight:bold;
+}
+
+.active{
+    color: green !important;
+}
+
+.head-nav{
+    color:#fff;
+}
+
+.navbar-nav .nav-item{
+    font-size:20px;
+    margin:3px 15px;
+    text-align:center;
+}
+
+.nav-item{
+    color:blue;
+    font-weight:800;
+}
+
+.nav-link{
+    color:#fff;
+    background-color:#198754;
+}
+
+.nav-link:hover{
+    color:green;
+}
+
+/** Home Design**/
+.intro h1{
+    font-size:70px;
+    color:green;
+    font-weight:700;
+}
+
+#about h1{
+    font-weight:500;
+    font-size:50px;
+}
+
+.about-us p{
+	/*font-size: 0.9375em;*/
+	line-height: 1.625em;
+	padding: 15px 0;
+}
+.about-us .about-us-list{
+	list-style: none;
+	margin-bottom: 20px;
+	padding-left:0px;
+}
+
