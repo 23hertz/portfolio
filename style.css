@@ -4,13 +4,18 @@
     box-sizing:border-box;
 }
 
-.navbar-brand{
-    font-size:30px;
-    font-weight:bold;
+
+
+
+#adestyle{
+    background-color:#fff;
+    border-radius:30px;
+    width:auto;
 }
 
+
 .active{
-    color: green !important;
+
 }
 
 .head-nav{
@@ -31,12 +36,19 @@
 .nav-link{
     color:#fff;
     background-color:#198754;
+    border-radius:30px;
+    font-family:cursive;
 }
 
 .nav-link:hover{
     color:green;
+    background-color:#fff;
+    
 }
 
+.navbar-toggle-icon{
+    background-color:#fff;
+}
 /** Home Design**/
 .intro h1{
     font-size:70px;
